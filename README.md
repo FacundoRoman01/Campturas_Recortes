@@ -53,6 +53,3 @@ Bash
 pyinstaller --onefile capturas.py
 El archivo capturas.exe se generará en la carpeta dist.
 
-Creador: [Tu Nombre]
-
-Contacto: [Tu Email o Perfil de GitHub]
